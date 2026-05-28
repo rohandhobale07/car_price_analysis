@@ -1,17 +1,19 @@
 # car_price_analysis
-A Power BI dashboard project designed to analyze and predict car prices using various automobile features such as horsepower, torque, body style, model, and MSRP values. This dashboard provides interactive visualizations, prediction analysis, and business insights for automobile pricing trends.
+An interactive Power BI dashboard for analyzing and predicting car prices using features like horsepower, torque, make, model, and MSRP.
+The project includes data visualization, KPI cards, slicers, and predictive analysis to generate valuable business insights.
 
-The Car Price Prediction Dashboard helps users:
-- Analyze car pricing trends
-- Compare actual vs predicted MSRP
-- Filter cars by make, model, body size, and body style
-- Visualize relationships between horsepower, torque, and price
-- Gain insights through interactive Power BI visuals
-
-This project demonstrates:
-
-- Data Cleaning & Transformation
-- Power BI Dashboard Design
+🔧 Tools Used:
+- Power BI
+- Excel
 - Data Visualization
-- Predictive Analytics
-- Interactive Filtering using Slicers
+  
+📌 Features:
+- Actual vs Predicted MSRP Analysis
+-  Filters & Slicers
+- Scatter Plots & Bar Charts
+- KPI Cards for Price Insights
+  
+📈 Insights
+- Compare market price vs predicted price
+- Analyze price trends by car brand and model
+- Study relationship between horsepower and MSRP
