@@ -1,4 +1,4 @@
-Car Price Analysis 🚗📊
+                                            🚗📊 Car Price Analysis 🚗📊
 
 An interactive Power BI dashboard for analyzing and predicting car prices using features like horsepower, torque, make, model, and MSRP.
 The project includes data visualization, KPI cards, slicers, and predictive analysis to generate valuable business insights.
